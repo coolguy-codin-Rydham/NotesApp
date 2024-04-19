@@ -3,6 +3,7 @@
 git clone https://github.com/coolguy-codin-Rydham/NotesApp <br>
 cd NotesApp <br>
 npm install <br>
+npm install react-icons (Just to be sure)<br>
 npm run dev <br>
 And now enjoy <br>
 
