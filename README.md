@@ -1,4 +1,4 @@
-Run these in Terminal
+<h1>Run these in Terminal</h1>
 
 git clone https://github.com/coolguy-codin-Rydham/NotesApp <br>
 cd NotesApp <br>
